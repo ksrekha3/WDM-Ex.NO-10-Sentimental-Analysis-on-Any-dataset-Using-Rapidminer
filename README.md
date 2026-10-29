@@ -1,0 +1,1 @@
+# WDM-Ex.NO-10-Sentimental-Analysis-on-Any-dataset-Using-Rapidminer
